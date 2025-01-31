@@ -1,0 +1,19 @@
+conditioning:
+  method: ps
+  params:
+    scale: 1.6
+    sub_scale: 8.0
+
+data:
+  name: ffhq
+  root: ./data/samples/
+
+measurement:
+  operator:
+    name: gaussian_blur
+    kernel_size: 61
+    intensity: 3.0
+  
+  noise: 
+    name: gaussian
+    sigma: 0.05

@@ -1,0 +1,2 @@
+ffhq: we provide a evaluation batch with size 100 due to the Supplementary Material file size limit, please free to add your data 
+imagenet: https://openaipublic.blob.core.windows.net/diffusion/jul-2021/ref_batches/imagenet/256/https://openaipublic.blob.core.windows.net/diffusion/jul-2021/ref_batches/imagenet/256/

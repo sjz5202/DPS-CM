@@ -1,0 +1,1 @@
+Please refer DPS code base to install the environment, required blur-kernel-space-exploring and motionblur and download pretrained FFHQ, ImageNet diffusion checkpoints.

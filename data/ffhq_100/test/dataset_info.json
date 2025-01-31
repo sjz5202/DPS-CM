@@ -1,0 +1,103 @@
+{
+  "builder_name": "parquet",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "ffhq-256",
+  "dataset_size": 7407063795,
+  "description": "",
+  "download_checksums": {
+    "hf://datasets/merkol/ffhq-256@f23c0e21f6fe222b4429272a86be00e4583b0298/data/train-00000-of-00015-991c06ed507bdb85.parquet": {
+      "num_bytes": 492498599,
+      "checksum": null
+    },
+    "hf://datasets/merkol/ffhq-256@f23c0e21f6fe222b4429272a86be00e4583b0298/data/train-00001-of-00015-78537a18b94b8879.parquet": {
+      "num_bytes": 494332163,
+      "checksum": null
+    },
+    "hf://datasets/merkol/ffhq-256@f23c0e21f6fe222b4429272a86be00e4583b0298/data/train-00002-of-00015-99699fe43dfbed7f.parquet": {
+      "num_bytes": 495239916,
+      "checksum": null
+    },
+    "hf://datasets/merkol/ffhq-256@f23c0e21f6fe222b4429272a86be00e4583b0298/data/train-00003-of-00015-da26a4adc48991a5.parquet": {
+      "num_bytes": 493144371,
+      "checksum": null
+    },
+    "hf://datasets/merkol/ffhq-256@f23c0e21f6fe222b4429272a86be00e4583b0298/data/train-00004-of-00015-6042881a9bae0948.parquet": {
+      "num_bytes": 494925196,
+      "checksum": null
+    },
+    "hf://datasets/merkol/ffhq-256@f23c0e21f6fe222b4429272a86be00e4583b0298/data/train-00005-of-00015-63fbe6d91f217943.parquet": {
+      "num_bytes": 493708871,
+      "checksum": null
+    },
+    "hf://datasets/merkol/ffhq-256@f23c0e21f6fe222b4429272a86be00e4583b0298/data/train-00006-of-00015-20ff57e5f39e43a3.parquet": {
+      "num_bytes": 494137992,
+      "checksum": null
+    },
+    "hf://datasets/merkol/ffhq-256@f23c0e21f6fe222b4429272a86be00e4583b0298/data/train-00007-of-00015-f81c33ff94c7cde5.parquet": {
+      "num_bytes": 493846773,
+      "checksum": null
+    },
+    "hf://datasets/merkol/ffhq-256@f23c0e21f6fe222b4429272a86be00e4583b0298/data/train-00008-of-00015-67df4eb7eeb0a448.parquet": {
+      "num_bytes": 493740901,
+      "checksum": null
+    },
+    "hf://datasets/merkol/ffhq-256@f23c0e21f6fe222b4429272a86be00e4583b0298/data/train-00009-of-00015-8d25e0cfc83bb2fb.parquet": {
+      "num_bytes": 494121403,
+      "checksum": null
+    },
+    "hf://datasets/merkol/ffhq-256@f23c0e21f6fe222b4429272a86be00e4583b0298/data/train-00010-of-00015-eb6d56b0434a4193.parquet": {
+      "num_bytes": 493431803,
+      "checksum": null
+    },
+    "hf://datasets/merkol/ffhq-256@f23c0e21f6fe222b4429272a86be00e4583b0298/data/train-00011-of-00015-1e9000cfae331646.parquet": {
+      "num_bytes": 493731807,
+      "checksum": null
+    },
+    "hf://datasets/merkol/ffhq-256@f23c0e21f6fe222b4429272a86be00e4583b0298/data/train-00012-of-00015-a96411675f1cda82.parquet": {
+      "num_bytes": 493108253,
+      "checksum": null
+    },
+    "hf://datasets/merkol/ffhq-256@f23c0e21f6fe222b4429272a86be00e4583b0298/data/train-00013-of-00015-467245f3e9cb2841.parquet": {
+      "num_bytes": 493834239,
+      "checksum": null
+    },
+    "hf://datasets/merkol/ffhq-256@f23c0e21f6fe222b4429272a86be00e4583b0298/data/train-00014-of-00015-267e348c5192fcda.parquet": {
+      "num_bytes": 493538283,
+      "checksum": null
+    }
+  },
+  "download_size": 7407340570,
+  "features": {
+    "image": {
+      "_type": "Image"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 14814404365,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 7407063795,
+      "num_examples": 70000,
+      "shard_lengths": [
+        9334,
+        9334,
+        9334,
+        9334,
+        9334,
+        9332,
+        9332,
+        4666
+      ],
+      "dataset_name": "ffhq-256"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
